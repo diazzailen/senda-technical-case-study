@@ -38,8 +38,8 @@ Implemented as an early-stage MVP: mobile educational Q&A and patient-journey sc
 
 ### Explore the implementation
 
-- [Architecture and service responsibilities](ARCHITECTURE.md)
-- [RAG pipeline, retrieval and attribution](RAG_PIPELINE.md)
-- [Engineering decisions and trade-offs](ENGINEERING_DECISIONS.md)
-- [60–90 second synthetic demo script](DEMO_GUIDE.md)
-- [Two proposed code samples for technical review](CODE_EXAMPLES.md)
+- [Architecture and service responsibilities](docs/ARCHITECTURE.md)
+- [RAG pipeline, retrieval and attribution](docs/RAG_PIPELINE.md)
+- [Engineering decisions and trade-offs](docs/ENGINEERING_DECISIONS.md)
+- [60–90 second synthetic demo script](docs/DEMO_GUIDE.md)
+- [Proposed retrieval-strategy code sample for technical review](examples/retrieval-strategy.md.md)
