@@ -42,4 +42,4 @@ Implemented as an early-stage MVP: mobile educational Q&A and patient-journey sc
 - [RAG pipeline, retrieval and attribution](docs/RAG_PIPELINE.md)
 - [Engineering decisions and trade-offs](docs/ENGINEERING_DECISIONS.md)
 - [60–90 second synthetic demo script](docs/DEMO_GUIDE.md)
-- [Proposed retrieval-strategy code sample for technical review](examples/retrieval-strategy.md.md)
+- [Proposed retrieval-strategy code sample for technical review](examples/retrieval-strategy.md)

@@ -12,4 +12,4 @@ These decisions describe implemented behavior, with trade-offs relevant to a bac
 | **Case-level owner and delegated permissions** | Keeps shared journey access decisions on the backend rather than only in the UI | More authorization states to model and test than a single global role |
 | **Synthetic technical evaluations** | Supports reproducible retrieval and AI-control regressions | Does not measure clinical quality, live provider quality or patient outcomes |
 
-For implementation-level details, see [architecture](ARCHITECTURE.md), [RAG pipeline](RAG_PIPELINE.md) and [proposed excerpts](CODE_EXAMPLES.md).
+For implementation-level details, see [architecture](ARCHITECTURE.md), [RAG pipeline](RAG_PIPELINE.md) and [proposed excerpts](../examples/retrieval-strategy.md).

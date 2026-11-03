@@ -52,4 +52,4 @@ This is a request flow, not a deployed topology. The AI service searches through
 
 The mobile app uses a session abstraction with Auth0 and development-only implementations. NestJS resolves a user from the bearer token; patient-case use cases check owner identity or active delegated access for applicable actions. Support invitations use expiring secrets stored as hashes and check the recipient's verified email on acceptance. The mobile app uses typed API calls and feature screens; the educational assistant keeps its displayed interactions in local screen state.
 
-See [the RAG flow](RAG_PIPELINE.md) for retrieval detail and [the case study](README.md) for the short overview.
+See [the RAG flow](RAG_PIPELINE.md) for retrieval detail and [the case study](../README.md) for the short overview.

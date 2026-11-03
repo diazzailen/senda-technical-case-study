@@ -9,6 +9,6 @@
 | 30–48 s | If the prechecked answer returns, show the answer and source metadata. “NestJS retrieves versioned document chunks; the AI service maps model-selected citations back to those records.” |
 | 48–63 s | Show a prechecked no-evidence response. “When no eligible sources are retrieved, the assistant withholds an answer rather than inventing one.” |
 | 63–78 s | Open a fictional case and timeline. “Case access is enforced server-side for owners and invited support contacts.” |
-| 78–90 s | Show the [architecture diagram](README.md#architecture-at-a-glance). “The core engineering work is the backend boundaries, semantic retrieval, authorization and testable AI behavior.” |
+| 78–90 s | Show the [architecture diagram](../README.md#architecture-at-a-glance). “The core engineering work is the backend boundaries, semantic retrieval, authorization and testable AI behavior.” |
 
 **Close:** “This is an engineering MVP; its information has not been clinically validated and it is not a production healthcare service.”
